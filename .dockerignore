@@ -1,0 +1,12 @@
+node_modules
+.git
+dist
+build
+coverage
+.yarn/cache
+.yarn/install-state.gz
+.env
+.env.*
+!.env.example
+src/generated
+*.log
